@@ -1,8 +1,12 @@
 #강다인 
-##### ddainkk@gmail.com
-##
+
+##### Contact.
+Email : ddainkk@gmail.com
+##### Channel.
+GitHub : https://github.com/dddain
 
 ## Introduce
+- 2년차 웹개발(BE, FE) 
 
 ## Skill. 
 - Front-end : React, Javascript(ES6), TypeScript, JQuery, AJAX, HTML5, BEM(scss, css)
@@ -10,6 +14,9 @@
 - DataBase : MariaDB(10.4), MySQL(5.7/8), Oracle(11g)
 
 ## Work Experience.
+달빛라이브
+ 
+
 
 
 ## Other Experience.
