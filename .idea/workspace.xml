@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="229b5541-65d5-4af8-936d-c2aa58b358d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/route.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/route.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\USER\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.7319.50\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qjCXFdMjOSTC1STSqFOnnEctxi" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+    <property name="ts.external.directory.path" value="C:\Users\USER\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.7319.50\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="229b5541-65d5-4af8-936d-c2aa58b358d7" name="Default Changelist" comment="" />
+      <created>1617583650780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617583650780</updated>
+      <workItem from="1617583651814" duration="3371000" />
+      <workItem from="1617689335774" duration="548000" />
+    </task>
+    <task id="LOCAL-00001" summary="이력서">
+      <created>1617689514421</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617689514421</updated>
+    </task>
+    <task id="LOCAL-00002" summary="이력서">
+      <created>1617689555804</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617689555804</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="이력서" />
+    <option name="LAST_COMMIT_MESSAGE" value="이력서" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2360" y="86" key="#Project_Structure" timestamp="1617583653620">
+      <screen x="1920" y="-8" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="86" key="#Project_Structure/1920.-8.1920.1040/0.0.1920.1040@1920.-8.1920.1040" timestamp="1617583653620" />
+    <state x="2497" y="79" key="CommitChangelistDialog2" timestamp="1617689555163">
+      <screen x="1920" y="-8" width="1920" height="1040" />
+    </state>
+    <state x="2497" y="79" key="CommitChangelistDialog2/1920.-8.1920.1040/0.0.1920.1040@1920.-8.1920.1040" timestamp="1617689555163" />
+    <state x="2472" y="231" key="Vcs.Push.Dialog.v2" timestamp="1617689515576">
+      <screen x="1920" y="-8" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="231" key="Vcs.Push.Dialog.v2/1920.-8.1920.1040/0.0.1920.1040@1920.-8.1920.1040" timestamp="1617689515576" />
+    <state x="2543" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1617587103587">
+      <screen x="1920" y="-8" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="217" width="672" height="678" key="search.everywhere.popup/1920.-8.1920.1040/0.0.1920.1040@1920.-8.1920.1040" timestamp="1617587103587" />
+  </component>
+</project>
