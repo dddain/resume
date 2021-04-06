@@ -16,7 +16,7 @@ GitHub : https://github.com/dddain
 
 * 달빛라이브
 
-<img src="https://github.com/dddain/resume/blob/main/img/clip_main.png" height="250" alt="main" /><img src="https://github.com/dddain/resume/blob/main/img/clip_main_popup.png" height="250" alt="main" /><img src="https://github.com/dddain/resume/blob/main/img/clip_rank.png" height="250" alt="main" /><img src="https://github.com/dddain/resume/blob/main/img/clip_recommend.png" height="250" alt="main" />
+<img src="https://github.com/dddain/resume/blob/main/img/clip_main.png" height="250" alt="main" /><img src="https://github.com/dddain/resume/blob/main/img/clip_main_popup.png" height="250" alt="popup" /><img src="https://github.com/dddain/resume/blob/main/img/clip_rank.png" height="250" alt="rank" /><img src="https://github.com/dddain/resume/blob/main/img/clip_recommend.png" height="250" alt="rec" />
   회사 : 인포렉스
   근무 기간 : 2020.01.13 ~ 2021.04.30
   담당 업무 :  
