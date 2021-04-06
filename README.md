@@ -16,7 +16,7 @@ GitHub : https://github.com/dddain
 ## Work Experience.
 달빛라이브
 
-<img src="https://github.com/dddain/resume/blob/main/img/clip_main.png" width="800" height="500" alt="main" />
+<img src="https://github.com/dddain/resume/blob/main/img/clip_main.png" width="800" height="400" alt="main" />
 
 ## Other Experience.
 2019.01 - 2019.06 프론트엔드(ReactJS, AngularJS) 개발을 위한 자바(JAVA) 웹개발자 양성과정 [NCS]
