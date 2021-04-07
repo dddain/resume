@@ -24,27 +24,28 @@ GitHub : https://github.com/dddain
   
   <br />
   
-> 회사 : 인포렉스 <br />
+> 회사 : 인포렉스, 콘텐츠사업부 개발1팀, 사원 <br />
 > 근무 기간 : 2020.01.13 ~ 2021.04.30 <br />
+> 운영 환경 : freeBSD(Linux), nginX + Tomcat9, mariaDB <br />
+> 개발 툴 : Intellij, VSCode, slack, Jenkins, Git, Trello, Notion, HeidiSQL <br />
 > 담당 업무 : <br />
 >
 > ** BackEnd 
-> - 사용 기술 : Spring Boot(2.2.1), JAVA, MyBatis, Bootstrap, css, jQuery, Ajax <br />
-> - 개발 환경 : Intellij <br />
+> - 기술 스택 : Spring Boot(2.2.1), JAVA, MyBatis, Bootstrap, css, jQuery, Ajax <br />
 > - (서비스) <br />
 > Spring Boot 기반 JAVA RESTful API개발 <br />
 > - (관리자) <br />
-> myBatis를 이용한 쿼리 작업 <br />
+> Spring Boot 기반 JAVA RESTful API개발 <br />
+> MyBatis를 이용한 쿼리 작업 <br />
 > Bootstrap 이용하여 UI구성 <br />
 > Jquery와 Ajax 비동기 통신을 통하여 화면 데이터 CRUD 작업 
 >
 > ** FrontEnd 
-> - 사용 기술 : React, JavaScript, TypeScript, BEM(scss, css) HTML  
-> - 개발 환경 : VSCode 
+> - 기술 스택 : webpack, yarn, React, JavaScript, TypeScript, BEM(scss, css) HTML  
 > - RESTful API를 통해 백엔드와 비동기 데이터 통신 작업
 > - HTML, BEM을 활용한 UI개발
-> - React JS를 이용하여 PC서비스 개발 
-> - React TS를 이용하여 Mobile서비스 개발
+> - React를 이용하여 PC서비스 개발(TypeScript 기반) 
+> - React를 이용하여 Mobile서비스 개발(TypeScript, JavaScript 기반)
 
 > Sample Code <br />
 > Rest Api : https://github.com/dddain/ <br />
