@@ -17,8 +17,8 @@ GitHub : https://github.com/dddain
 
 * 달빛라이브
 
-<img src="https://github.com/dddain/resume/blob/main/img/loading.png" height="250" alt="loading" />
-<img src="https://github.com/dddain/resume/blob/main/img/broad.png" height="250" alt="main" />
+<img src="https://github.com/dddain/resume/blob/main/img/loading.jpg" height="250" alt="loading" />
+<img src="https://github.com/dddain/resume/blob/main/img/broad.jpg" height="250" alt="main" />
 <img src="https://github.com/dddain/resume/blob/main/img/clip_main_popup.PNG" height="300" alt="popup" />
 <img src="https://github.com/dddain/resume/blob/main/img/clip_main.png" height="250" alt="clipMain" />
 <img src="https://github.com/dddain/resume/blob/main/img/clip_rank.png" height="300" alt="rank" /><img src="https://github.com/dddain/resume/blob/main/img/clip_recommend.png" height="300" alt="rec" />
