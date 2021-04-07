@@ -1,4 +1,5 @@
 ## 강다인
+
 ##### Contact.
 Email : ddainkk@gmail.com
 ##### Channel.
@@ -16,7 +17,10 @@ GitHub : https://github.com/dddain
 
 * 달빛라이브
 
-<img src="https://github.com/dddain/resume/blob/main/img/clip_main.png" height="250" alt="main" /><img src="https://github.com/dddain/resume/blob/main/img/clip_main_popup.PNG" height="300" alt="popup" />
+<img src="https://github.com/dddain/resume/blob/main/img/loading.png" height="250" alt="loading" />
+<img src="https://github.com/dddain/resume/blob/main/img/broad.png" height="250" alt="main" />
+<img src="https://github.com/dddain/resume/blob/main/img/clip_main_popup.PNG" height="300" alt="popup" />
+<img src="https://github.com/dddain/resume/blob/main/img/clip_main.png" height="250" alt="clipMain" />
 <img src="https://github.com/dddain/resume/blob/main/img/clip_rank.png" height="300" alt="rank" /><img src="https://github.com/dddain/resume/blob/main/img/clip_recommend.png" height="300" alt="rec" />
   
   <br />
@@ -24,8 +28,9 @@ GitHub : https://github.com/dddain
 > 회사 : 인포렉스 <br />
 > 근무 기간 : 2020.01.13 ~ 2021.04.30 <br />
 > 담당 업무 : <br />
+>
 > ** BackEnd 
-> - 사용 기술 : Spring Boot(2.2.1), JAVA, myBatis, Bootstrap, css, jQuery, Ajax <br />
+> - 사용 기술 : Spring Boot(2.2.1), JAVA, MyBatis, Bootstrap, css, jQuery, Ajax <br />
 > - 개발 환경 : Intellij <br />
 > - (서비스) <br />
 > Spring Boot 기반 JAVA RESTful API개발 <br />
@@ -33,8 +38,8 @@ GitHub : https://github.com/dddain
 > myBatis를 이용한 쿼리 작업 <br />
 > Bootstrap 이용하여 UI구성 <br />
 > Jquery와 Ajax 비동기 통신을 통하여 화면 데이터 CRUD 작업 
-
-> ** FrontEnd  <br />
+>
+> ** FrontEnd 
 > - 사용 기술 : React, JavaScript, TypeScript, BEM(scss, css) HTML  
 > - 개발 환경 : VSCode 
 > - RESTful API를 통해 백엔드와 비동기 데이터 통신 작업
