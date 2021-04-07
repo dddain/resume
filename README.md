@@ -1,12 +1,7 @@
 ## 강다인
 
-##### Contact.
-Email : ddainkk@gmail.com
-##### Channel.
-GitHub : https://github.com/dddain
-
 ## Introduce
-- 2년차 웹개발(BE, FE) 
+- 자기소개서 문구 
 
 ## Skill. 
 - Front-end : React, Javascript(ES6), TypeScript, JQuery, AJAX, HTML5, BEM(scss, css)
