@@ -1,11 +1,10 @@
 ## 강다인
 
 ## Introduce
-> 안녕하세요. 2년차 웹개발자 강다인입니다.
-> 실무 경험으로 Java를 활용한 RESTful Api 개발 경험, 
-> JavaScript, TypeScript를 기반으로 한 React 개발 경험이 있습니다. 
-> 주어진 업무를 성실히 해냄과 더불어 훌륭한 개발자가 되기 위해 끊임 없이 
-> 노력하겠습니다.
+> 안녕하세요. 2년차 웹개발자 강다인입니다. <br />
+> 실무 경험으로 Java를 활용한 RESTful Api 개발 경험, <br /> 
+> JavaScript, TypeScript를 기반으로 한 React 개발 경험이 있습니다. <br /> 
+> 주어진 업무를 성실히 해냄과 더불어 훌륭한 개발자가 되기 위해 끊임 없이 노력하겠습니다.
 
 ## Skill. 
 - Front-end : React, Javascript(ES6), TypeScript, JQuery, AJAX, HTML5, BEM(scss, css)
