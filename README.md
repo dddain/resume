@@ -1,7 +1,11 @@
 ## 강다인
 
 ## Introduce
-- 자기소개서 문구 
+> 안녕하세요. 2년차 웹개발자 강다인입니다.
+> 실무 경험으로 Java를 활용한 RESTful Api 개발 경험, 
+> JavaScript, TypeScript를 기반으로 한 React 개발 경험이 있습니다. 
+> 주어진 업무를 성실히 해냄과 더불어 훌륭한 개발자가 되기 위해 끊임 없이 
+> 노력하겠습니다.
 
 ## Skill. 
 - Front-end : React, Javascript(ES6), TypeScript, JQuery, AJAX, HTML5, BEM(scss, css)
@@ -11,6 +15,8 @@
 ## Work Experience.
 
 * 달빛라이브
+pc : https://www.dalbitlive.com<br />
+mobile : https://m.dalbitlive.com
 
 ##### mobile
 <img src="https://github.com/dddain/resume/blob/main/img/loading.jpg" height="250" alt="loading" /><img src="https://github.com/dddain/resume/blob/main/img/broad.jpg" height="250" alt="main" /><img src="https://github.com/dddain/resume/blob/main/img/clip.jpg" height="250" alt="clip" /><img src="https://github.com/dddain/resume/blob/main/img/rank.jpg" height="250" alt="rank" /><img src="https://github.com/dddain/resume/blob/main/img/clip_rank.jpg" height="250" alt="clipRank" /><img src="https://github.com/dddain/resume/blob/main/img/clip_rec.jpg" height="250" alt="clipRec" /> 
