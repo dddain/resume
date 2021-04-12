@@ -52,5 +52,6 @@ mobile : https://m.dalbitlive.com
 > front : https://github.com/dddain/sample_react
 
 ## Other Experience.
-2019.01 - 2019.06 프론트엔드(ReactJS, AngularJS) 개발을 위한 자바(JAVA) 웹개발자 양성과정 [NCS]
-
+- 2019.01 - 2019.06 프론트엔드(ReactJS, AngularJS) 개발을 위한 자바(JAVA) 웹개발자 양성과정 [NCS] 
+<img src="https://github.com/dddain/resume/blob/main/img/1.png" height="300" alt="p1" />
+<img src="https://github.com/dddain/resume/blob/main/img/2.png" height="300" alt="p2" />
