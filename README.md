@@ -47,6 +47,10 @@ mobile : https://m.dalbitlive.com
 > - React를 이용하여 PC서비스 개발(TypeScript 기반) 
 > - React를 이용하여 Mobile서비스 개발(TypeScript, JavaScript 기반)
 
+> Sample Code <br />
+> Rest Api : https://github.com/dddain/sample_api <br />
+> front : https://github.com/dddain/sample_react
+
 ## Other Experience.
 2019.01 - 2019.06 프론트엔드(ReactJS, AngularJS) 개발을 위한 자바(JAVA) 웹개발자 양성과정 [NCS]
 
