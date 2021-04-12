@@ -27,15 +27,15 @@ mobile : https://m.dalbitlive.com
 <img src="https://github.com/dddain/resume/blob/main/img/simple_pay.jpg" height="250" alt="simplePay" />
 
 ##### PC
-<img src="https://github.com/dddain/resume/blob/main/img/main_pc.png" height="300" alt="main" />
-<img src="https://github.com/dddain/resume/blob/main/img/clip_main_popup_pc.png" height="300" alt="clipMainPopup" />
-<img src="https://github.com/dddain/resume/blob/main/img/clip_main_pc.png" height="300" alt="clipMain" />
-<img src="https://github.com/dddain/resume/blob/main/img/clip_player_pc.png" height="300" alt="clipPlayer" />
-<img src="https://github.com/dddain/resume/blob/main/img/clip_rank_pc.png" height="300" alt="clipRank" />
-<img src="https://github.com/dddain/resume/blob/main/img/clip_rec_pc.png" height="300" alt="clipRec" />
-<img src="https://github.com/dddain/resume/blob/main/img/faq_pc.png" height="300" alt="faq" />
-<img src="https://github.com/dddain/resume/blob/main/img/report_pc.png" height="300" alt="report" />
-<img src="https://github.com/dddain/resume/blob/main/img/simple_pay_pc.png" height="300" alt="simplePay" />
+<img src="https://github.com/dddain/resume/blob/main/img/main_pc.PNG" height="300" alt="main" />
+<img src="https://github.com/dddain/resume/blob/main/img/clip_main_popup_pc.jpg" height="300" alt="clipMainPopup" />
+<img src="https://github.com/dddain/resume/blob/main/img/clip_main_pc.PNG" height="300" alt="clipMain" />
+<img src="https://github.com/dddain/resume/blob/main/img/clip_player_pc.PNG" height="300" alt="clipPlayer" />
+<img src="https://github.com/dddain/resume/blob/main/img/clip_rank_pc.jpg" height="300" alt="clipRank" />
+<img src="https://github.com/dddain/resume/blob/main/img/clip_rec_pc.jpg" height="300" alt="clipRec" />
+<img src="https://github.com/dddain/resume/blob/main/img/faq_pc.PNG" height="300" alt="faq" />
+<img src="https://github.com/dddain/resume/blob/main/img/report_pc.PNG" height="300" alt="report" />
+<img src="https://github.com/dddain/resume/blob/main/img/simple_pay_pc.PNG" height="300" alt="simplePay" />
   
   <br />
   
