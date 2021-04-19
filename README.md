@@ -7,7 +7,7 @@
 
 ## Skill. 
 - Front-end : React, Javascript(ES6), TypeScript, JQuery, AJAX, HTML5, BEM(scss, css)
-- Back-end : Spring Boot(2.2.1) / SpringFramework(4,5) (MyBatis, WebMVC) , JSP, Servlet
+- Back-end : Spring Boot(2.2.1) / Spring Framework(4,5) (MyBatis, WebMVC) , JSP, Servlet
 - DataBase : MariaDB(10.4), MySQL(5.7/8), Oracle(11g)
 
 ## Work Experience.
@@ -26,12 +26,12 @@ mobile : https://m.dalbitlive.com
   
 > 회사 : 인포렉스, 콘텐츠사업부 개발1팀, 사원 <br />
 > 근무 기간 : 2020.01.13 ~ 2021.04.30 <br />
-> 운영 환경 : freeBSD(Linux), nginX + Tomcat9, mariaDB <br />
-> 개발 툴 : Intellij, VSCode, slack, Jenkins, Git, Trello, Notion, HeidiSQL <br />
+> 운영 환경 : FreeBSD(Linux), NGINX + Tomcat9, MariaDB <br />
+> 개발 툴 : Intellij, VSCode, Slack, Jenkins, Git, Trello, Notion, HeidiSQL <br />
 > 담당 업무 : <br />
 >
 > ** BackEnd 
-> - 기술 스택 : Spring Boot(2.2.1), JAVA, MyBatis, Bootstrap, css, jQuery, Ajax <br />
+> - 기술 스택 : Spring Boot(2.2.1), JAVA, MyBatis, Bootstrap, CSS, jQuery, AJAX <br />
 > - (서비스) <br />
 > Spring Boot 기반 JAVA RESTful API개발 <br />
 > - (관리자) <br />
@@ -53,4 +53,4 @@ mobile : https://m.dalbitlive.com
 
 ## Other Experience.
 - 2019.01 - 2019.06 프론트엔드(ReactJS, AngularJS) 개발을 위한 자바(JAVA) 웹개발자 양성과정 [NCS] 
-<img src="https://github.com/dddain/resume/blob/main/img/1.PNG" height="400" alt="p1" /><img src="https://github.com/dddain/resume/blob/main/img/2.PNG" height="400" alt="p2" /><img src="https://github.com/dddain/resume/blob/main/img/3.PNG" height="400" alt="p3" /><img src="https://github.com/dddain/resume/blob/main/img/4.PNG" height="400" alt="p4" /><img src="https://github.com/dddain/resume/blob/main/img/5.PNG" height="400" alt="p5" /><img src="https://github.com/dddain/resume/blob/main/img/6.PNG" height="400" alt="p6" />
+<img src="https://github.com/dddain/resume/blob/main/img/1.PNG" height="600" alt="p1" /><img src="https://github.com/dddain/resume/blob/main/img/2.PNG" height="600" alt="p2" /><img src="https://github.com/dddain/resume/blob/main/img/3.PNG" height="600" alt="p3" /><img src="https://github.com/dddain/resume/blob/main/img/4.PNG" height="600" alt="p4" /><img src="https://github.com/dddain/resume/blob/main/img/5.PNG" height="600" alt="p5" /><img src="https://github.com/dddain/resume/blob/main/img/6.PNG" height="600" alt="p6" />
