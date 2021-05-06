@@ -7,7 +7,7 @@
 > 효율적인 코드를 위해 끊임 없이 생각하고 연구합니다.
 
 ## Skill. 
-- Front-end : React, Javascript(ES6), TypeScript, JQuery, AJAX, HTML5, BEM(scss, css)
+- Front-end : React, JavaScript(ES6), TypeScript, jQuery, AJAX, HTML5, BEM(scss, css)
 - Back-end : Spring Boot(2.2.1) / Spring Framework(4,5) (MyBatis, WebMVC) , JSP, Servlet
 - DataBase : MariaDB(10.4), MySQL(5.7/8), Oracle(11g)
 
@@ -39,7 +39,7 @@ mobile : https://m.dalbitlive.com
 > Spring Boot 기반 JAVA RESTful API개발 <br />
 > MyBatis를 이용한 쿼리 작업 <br />
 > Bootstrap 이용하여 UI구성 <br />
-> Jquery와 Ajax 비동기 통신을 통하여 화면 데이터 CRUD 작업 
+> jQuery Ajax 비동기 통신을 통하여 화면 데이터 CRUD 작업 
 >
 > ** FrontEnd 
 > - 기술 스택 : webpack, yarn, React, JavaScript, TypeScript, BEM(scss, css) HTML  
