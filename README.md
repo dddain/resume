@@ -1,16 +1,44 @@
 ## 강다인
 
 ## Introduce
-> 안녕하세요. 2년차 웹개발자 강다인입니다. <br />
+> 안녕하세요. 3년차 웹개발자 강다인입니다. <br />
 > 실무 경험으로 Java를 활용한 RESTful Api 개발(BackEnd) 경험, <br />
 > JavaScript, TypeScript를 기반으로 한 React 개발(FrontEnd) 경험을 가지고 있습니다.  <br /> 
 
 ## Skill. 
-- Front-end : React, JavaScript(ES6), TypeScript, jQuery, AJAX, HTML5, BEM(scss, css)
-- Back-end : Spring Boot(2.2.1) / Spring Framework(4,5) (MyBatis, WebMVC) , JSP, Servlet
+- Back-end : Spring Boot(2.2.1) / Spring Framework(4,5) (MyBatis, WebMVC), JAVA
+- Front-end : JSP, Servlet, React, JavaScript(ES6), TypeScript, jQuery, AJAX, HTML5, BEM(scss, css)
 - DataBase : MariaDB(10.4), MySQL(5.7/8), Oracle(11g)
+- Server : AWS EC2 Instance, Docker 
 
 ## Work Experience.
+
+* 파스토 <br />
+##### PC
+
+##### PDA
+
+<br />
+
+> 회사 : 파스토, FMS고도화, 매니저 <br />
+> 근무 기간 : 2021.07.26 ~ <br />
+> 운영 환경 : MacOs, AWS, MariaDB <br />
+> 개발 툴 : Intellij, Atlassian(jira, confluence), iTerm2, dbeaver, grafana, nexus, Slack, Jenkins, Git, Docker, Notion <br />
+> 담당 업무 : <br />
+>
+> ** BackEnd 
+> - 기술 스택 : Spring Boot(2.2.1), JAVA(1.8), Retrofit2, MyBatis, jQuery, AJAX <br />
+> - ERP 프로그램 개발 <br />
+> Spring Boot/Spring Framework 기반 JAVA RESTful API개발 <br />
+> Retrofit2를 활용하여 외부 통신 API 개발 <br />
+> MyBatis를 이용한 쿼리 작업 <br />
+> JSP 화면 개발 <br />
+> jQuery Ajax 비동기 통신을 통하여 화면 데이터 CRUD 작업 
+
+> Sample Code <br />
+> Rest Api : https://github.com/dddain/sample_api <br />
+
+<br /><br /><br />
 
 * 달빛라이브 <br />
 pc : https://www.dalbitlive.com<br />
