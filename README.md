@@ -15,29 +15,30 @@
 
 * 파스토 <br />
 ##### PC
+<img src="https://github.com/dddain/resume/blob/main/img/expirationDtCheck.png" height="300" alt="main" /><img src="https://github.com/dddain/resume/blob/main/img/delivery.png" height="300" alt="main" />
 
 ##### PDA
+<img src="https://github.com/dddain/resume/blob/main/img/locMove.png" height="300" alt="main" />
 
 <br />
 
 > 회사 : 파스토, FMS고도화, 매니저 <br />
 > 근무 기간 : 2021.07.26 ~ <br />
-> 운영 환경 : MacOs, AWS, MariaDB <br />
+> 운영 환경 : MacOs, AWS EC2 <br />
 > 개발 툴 : Intellij, Atlassian(jira, confluence), iTerm2, dbeaver, grafana, nexus, Slack, Jenkins, Git, Docker, Notion <br />
 > 담당 업무 : <br />
 >
 > ** BackEnd 
-> - 기술 스택 : Spring Boot(2.2.1), JAVA(1.8), Retrofit2, MyBatis, jQuery, AJAX <br />
+> - 기술 스택 : Spring Boot(2.7.3), JAVA(1.8), Retrofit2, MyBatis, AJAX <br />
 > - ERP 프로그램 개발 <br />
 > Spring Boot/Spring Framework 기반 JAVA RESTful API개발 <br />
 > Retrofit2를 활용하여 외부 통신 API 개발 <br />
 > MyBatis를 이용한 쿼리 작업 <br />
-> JSP 화면 개발 <br />
-> jQuery Ajax 비동기 통신을 통하여 화면 데이터 CRUD 작업 
-
-> Sample Code <br />
-> Rest Api : https://github.com/dddain/sample_api <br />
-
+> 
+> ** FrontEnd 
+> - 기술 스택 : thymeleaf, JavaScript, jQuery
+> - JSP 화면 개발 <br />
+> - jQuery Ajax 비동기 통신을 통하여 화면 데이터 CRUD 작업 
 <br /><br /><br />
 
 * 달빛라이브 <br />
@@ -74,6 +75,8 @@ mobile : https://m.dalbitlive.com
 > - HTML, BEM을 활용한 UI개발
 > - React를 이용하여 PC서비스 개발(TypeScript 기반) 
 > - React를 이용하여 Mobile서비스 개발(TypeScript, JavaScript 기반)
+
+***
 
 > Sample Code <br />
 > Rest Api : https://github.com/dddain/sample_api <br />
