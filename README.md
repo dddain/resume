@@ -6,10 +6,10 @@
 > JavaScript, TypeScript를 기반으로 한 React 개발(FrontEnd) 경험을 가지고 있습니다.  <br /> 
 
 ## Skill. 
-- Back-end : Spring Boot(2.2.1) / Spring Framework(4,5) (MyBatis, WebMVC), JAVA
-- Front-end : JSP, Servlet, React, JavaScript(ES6), TypeScript, jQuery, AJAX, HTML5, BEM(scss, css)
+- Back-end : Spring Boot / Spring Framework, JAVA, MyBatis, Retrofit2
+- Front-end : realGrid, thymeleaf, JSP, Servlet, React, JavaScript(ES6), TypeScript, jQuery, AJAX, HTML5, BEM(scss, css)
 - DataBase : MariaDB(10.4), MySQL(5.7/8), Oracle(11g)
-- Server : AWS EC2 Instance, Docker 
+- Server : AWS EC2, Docker 
 
 ## Work Experience.
 
