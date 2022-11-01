@@ -30,7 +30,7 @@
 >
 > ** BackEnd 
 > - 기술 스택 : Spring Boot(2.7.3), JAVA(1.8), Retrofit2, MyBatis, AJAX <br />
-> - ERP 프로그램 개발 <br />
+> - ERP 프로그램 (FMS (Fulfillment Management System), 파스토 물류 플랫폼) 개발 <br />
 > Spring Boot/Spring Framework 기반 JAVA RESTful API개발 <br />
 > Retrofit2를 활용하여 외부 통신 API 개발 <br />
 > MyBatis를 이용한 쿼리 작업 <br />
