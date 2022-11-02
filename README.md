@@ -38,7 +38,8 @@
 > ** FrontEnd 
 > - 기술 스택 : realGrid, thymeleaf, JavaScript, jQuery
 > - realGrid와 jQuery활용한 JSP 화면(client단) 개발 <br />
-> - jQuery Ajax 비동기 통신을 통하여 화면 데이터 CRUD 작업 
+> - jQuery Ajax 비동기 통신을 통하여 화면 데이터 CRUD 작업 <br />
+
 <br /><br /><br /><br />
 
 * 달빛라이브 <br />
