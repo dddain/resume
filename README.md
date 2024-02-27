@@ -27,11 +27,10 @@
 > 운영 환경 : MacOs, AWS EC2 <br />
 > 개발 툴 : Intellij, Atlassian(jira, confluence), iTerm2, dbeaver, grafana, Slack, Jenkins, Git, Docker, Notion <br />
 > 담당 업무 : FMS고도화, OMS개발 <br />
-> 
-> ** BackEnd
+> FMS 고도화 (자사 ERP 프로그램 (FMS (Fulfillment Management System), 파스토 물류 플랫폼) 개발
 > - 
+> ** BackEnd
 > - 기술 스택 : Spring Boot(2.7.3), JAVA(1.8), Retrofit2, MyBatis, AJAX <br />
-> - ERP 프로그램 (FMS (Fulfillment Management System), 파스토 물류 플랫폼) 개발 <br />
 > Spring Boot/Spring Framework 기반 JAVA RESTful API개발 <br />
 > Retrofit2를 활용하여 외부 통신 API 개발 <br />
 > MyBatis를 이용한 쿼리 작업 <br />
@@ -40,6 +39,12 @@
 > - 기술 스택 : realGrid, thymeleaf, JavaScript, jQuery
 > - realGrid와 jQuery활용한 JSP 화면(client단) 개발 <br />
 > - jQuery Ajax 비동기 통신을 통하여 화면 데이터 CRUD 작업 <br />
+> OMS개발 (네이버 물류 데이터 플랫폼 재고 데이터 연동 및 사방넷 주문 수집 개발)
+> 
+> ** BackEnd
+> - 기술 스택 : Spring Boot(2.7.3), JAVA(17), Kotlin, open feign, MyBatis
+> Spring Boot 기반 Kotlin RESTful API 개발 <br />
+> Retrofit2, feign을 활용하여 외부 통신 API 개발 <br />
 
 <br /><br /><br /><br />
 
