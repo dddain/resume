@@ -1,12 +1,12 @@
 ## 강다인
 
 ## Introduce
-> 안녕하세요. 3년차 웹개발자 강다인입니다. <br />
-> 실무 경험으로 Java를 활용한 RESTful Api 개발(BackEnd) 경험, <br />
+> 안녕하세요. 웹개발자 강다인입니다. <br />
+> 실무 경험으로 Java, Kotlin 을 활용한 RESTful Api 개발(BackEnd) 경험, <br />
 > JavaScript, TypeScript를 기반으로 한 React 개발(FrontEnd) 경험을 가지고 있습니다.  <br /> 
 
 ## Skill. 
-- Back-end : Spring Boot / Spring Framework, JAVA, MyBatis, Retrofit2
+- Back-end : Spring Boot / Spring Framework, JAVA, Kotlin, MyBatis, Retrofit2, feign 
 - Front-end : realGrid, thymeleaf, JSP, Servlet, React, JavaScript(ES6), TypeScript, jQuery, AJAX, HTML5, BEM(scss, css)
 - DataBase : MariaDB(10.4), MySQL(5.7/8), Oracle(11g)
 - Server : AWS EC2, Docker 
@@ -22,13 +22,14 @@
 
 <br />
 
-> 회사 : 파스토, FMS고도화, 매니저 <br />
+> 회사 : 파스토 <br />
 > 근무 기간 : 2021.07.26 ~ <br />
 > 운영 환경 : MacOs, AWS EC2 <br />
-> 개발 툴 : Intellij, Atlassian(jira, confluence), iTerm2, dbeaver, grafana, nexus, Slack, Jenkins, Git, Docker, Notion <br />
-> 담당 업무 : <br />
->
-> ** BackEnd 
+> 개발 툴 : Intellij, Atlassian(jira, confluence), iTerm2, dbeaver, grafana, Slack, Jenkins, Git, Docker, Notion <br />
+> 담당 업무 : FMS고도화, OMS개발 <br />
+> 
+> ** BackEnd
+> - 
 > - 기술 스택 : Spring Boot(2.7.3), JAVA(1.8), Retrofit2, MyBatis, AJAX <br />
 > - ERP 프로그램 (FMS (Fulfillment Management System), 파스토 물류 플랫폼) 개발 <br />
 > Spring Boot/Spring Framework 기반 JAVA RESTful API개발 <br />
@@ -77,11 +78,4 @@ mobile : https://m.dalbitlive.com
 > - React를 이용하여 PC서비스 개발(TypeScript 기반) 
 > - React를 이용하여 Mobile서비스 개발(TypeScript, JavaScript 기반)
 
-***
 
-> Sample Code <br />
-> Rest Api : https://github.com/dddain/sample_api <br />
-> front : https://github.com/dddain/sample_react
-
-## Other Experience.
-- 2019.01 - 2019.06 프론트엔드(ReactJS, AngularJS) 개발을 위한 자바(JAVA) 웹개발자 양성과정 [NCS] 
