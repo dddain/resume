@@ -30,7 +30,7 @@
 
 > FMS 고도화 (자사 ERP 프로그램 (FMS (Fulfillment Management System), 파스토 물류 플랫폼) 개발
 >
-> - 
+>
 > ** BackEnd
 > - 기술 스택 : Spring Boot(2.7.3), JAVA(1.8), Retrofit2, MyBatis, AJAX <br />
 > Spring Boot/Spring Framework 기반 JAVA RESTful API개발 <br />
@@ -44,7 +44,7 @@
 
 > OMS개발 (네이버 물류 데이터 플랫폼 재고 데이터 연동 및 사방넷 주문 수집 개발)
 >
->  -
+> 
 > ** BackEnd
 > - 기술 스택 : Spring Boot(2.7.3), JAVA(17), Kotlin, open feign, MyBatis
 > Spring Boot 기반 Kotlin RESTful API 개발 <br />
